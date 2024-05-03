@@ -2,8 +2,8 @@
   "name": "3-col-card",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://LangOfficial.github.io/3-col-prev-card/",
   "type": "module",
+  "homepage": "https://LangOfficial.github.io/3-col-prev-card/",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d dist",
