@@ -21,6 +21,9 @@ export default {
         primary: 'Lexend Deca',
         secondary: 'Big Shoulders Display'
       },
+      screens: {
+        halfxl: '1440px',
+      }
     },
   },
   plugins: [],
